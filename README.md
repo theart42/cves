@@ -5,4 +5,5 @@ CVE's we discovered along the way
 
   An NTLM hash leak in the Spark XMPP client and ROAR Module
 
-@theart42 & @4ndr34z
+
+[@theart42](https://twitter.com/theart42) & [@4nqr34z](https://twitter.com/4nqr34z)
