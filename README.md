@@ -8,6 +8,8 @@ CVE's we discovered along the way
 [CVE-2020-24364](cve-2020-24364/CVE-2020-24364.md)
 
   An injection/remote code executiuon in MineTime
+  
+CVE-2021-28079
 
 @theart42 & @4nqr34z
 =======
