@@ -9,8 +9,11 @@ CVE's we discovered along the way
 
   An injection/remote code executiuon in MineTime
   
-CVE-2021-28079
+[CVE-2021-28079](CVE-2021-28079/CVE-2021-28079.md)
 
+  Jamovi <=1.6.18 is affected by a cross-site scripting (XSS) vulnerability. 
+  
+  
 @theart42 & @4nqr34z
 =======
 
